@@ -1,1 +1,2 @@
-# tranhieptrongdzs1tg.github.io
+# Code web by Nguyen Ðinh Chien
+Làm web ib 10k/1
